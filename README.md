@@ -2,6 +2,9 @@ Homepage
 ====
 
 Small fork, to remove some of the stuff I dont/wont use
+TODO:
+* Serve file via localhost to bypass CORS (python/tornado)
+* Possible Bookmark integration
 
 ![alt tag](screenshots/preview.png "Homepage preview")
 
